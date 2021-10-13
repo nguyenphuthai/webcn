@@ -1,0 +1,38 @@
+.nav-link{
+	color: black;
+	font-size: 20px;
+	font-weight: 500;
+},
+.navbar-brand{
+	color: black;
+	font-size: 20px;
+	font-weight: 500;
+}
+.web-banner{
+	background-color: gray;
+}
+.carousel-caption{
+	
+	font-size: 20px;
+	font-weight: 500;
+	color: black;
+}
+.card-body{
+	text-align: center;
+}
+.card-img-top{
+	padding: 30px;
+}
+.img-responsive{
+	height: 30vw;!important
+}
+.card-text{
+	color: red;
+	font-weight: 400;
+}
+.card{
+	margin-top: 10px;
+}
+.nav-item{
+	margin-left: 30px;
+}
